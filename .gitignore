@@ -1,0 +1,28 @@
+# ========= JAVA =========
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ========= IntelliJ IDEA =========
+.idea/
+*.iml
+out/
+target/
+
+# ========= System Files =========
+.DS_Store
+Thumbs.db
+
+# ========= Maven / Gradle (لو استخدمت) =========
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# ========= Logs =========
+*.log
+logs/
