@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Showroom Management System
 
 A Java-based console application demonstrating core Object-Oriented Programming (OOP) concepts using classes, objects, encapsulation, inheritance (when applicable), and Java Collections.
@@ -28,3 +29,7 @@ CarShowroomSystem/
  │    │    └── Main.java      # Main application with menu and user interaction & Handles inventory, add/sell/search operations
  ├── README.md                # Project description and instructions
  └── .gitignore               # Git ignore file to exclude unnecessary files/folders
+=======
+# car-showroom-management
+A Java-based console application that demonstrates core Object-Oriented Programming concepts through building a simplified car showroom management system.
+>>>>>>> 904e675ba0df9165f32dd32ae629a622bde2ddbc
